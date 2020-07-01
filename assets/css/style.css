@@ -228,9 +228,15 @@ header {
 
     }
 
+/*------------------------------------------------Three-reasons */
+    
+.three-reasons-icon {
+    font-size: 26px;
+    color: #e67e22;
+}
+.three-reasons-heading{
+    margin-bottom: 15px;
+    
+}
 
-    {
-
-
-
-    }
+    
