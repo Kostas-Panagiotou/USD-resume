@@ -93,7 +93,7 @@ header {
     -moz-transition: all  .5s ease-in-out;
     -webkit-transition: all  .5s ease-in-out;
     }
-
+  
  .name {
         font-family: "Exo", sans-serif;
         font-weight: 100;
@@ -237,7 +237,7 @@ header {
     font-size: 26px;
     color: #e67e22;
 }
-.three-reasons-heading{
+.three-reasons-heading {
     margin-bottom: 15px;
     
 }
@@ -267,4 +267,13 @@ header {
     margin-right: 21px;
     padding-top: 2px;
     vertical-align: top;
+}
+
+.personal-info-item .key p {
+    font-weight: 700;
+}
+
+.personal-info-item .value {
+    position: relative;
+    width: 60%;
 }
